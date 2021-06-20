@@ -1,0 +1,40 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.wrapper {
+    border: 2px solid #dedede;
+    border-radius: 5px;
+    display: flex;
+    height: 60px;
+}
+
+.todo-form {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.todo-input {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.text-area {
+    padding-top: 20px;
+    width: 90%;
+}
+
+.delete-icons {
+    padding-top: 20px;
+    padding-right: 20px;
+    color: red;
+    cursor: pointer;
+}
+
+.todo-list-header {
+    color: #787575;
+}
+
+.MuiOutlinedInput-input {
+    padding: 12px !important;
+}
